@@ -15,19 +15,16 @@ FONT = {
         "####",
         "#  #",
         "#  #",
-        "#  #",
     ],
     'B': [
         "### ",
         "#  #",
         "### ",
         "#  #",
-        "#  #",
         "### ",
     ],
     'C': [
         " ###",
-        "#   ",
         "#   ",
         "#   ",
         "#   ",
@@ -38,14 +35,12 @@ FONT = {
         "#  #",
         "#  #",
         "#  #",
-        "#  #",
         "### ",
     ],
     'E': [
         "####",
         "#   ",
         "### ",
-        "#   ",
         "#   ",
         "####",
     ],
@@ -55,13 +50,11 @@ FONT = {
         "### ",
         "#   ",
         "#   ",
-        "#   ",
     ],
     'G': [
         " ###",
         "#   ",
         "# ##",
-        "#  #",
         "#  #",
         " ###",
     ],
@@ -71,11 +64,9 @@ FONT = {
         "####",
         "#  #",
         "#  #",
-        "#  #",
     ],
     'I': [
         "###",
-        " # ",
         " # ",
         " # ",
         " # ",
@@ -86,7 +77,6 @@ FONT = {
         "   #",
         "   #",
         "#  #",
-        "#  #",
         " ## ",
     ],
     'K': [
@@ -95,10 +85,8 @@ FONT = {
         "##  ",
         "# # ",
         "#  #",
-        "#  #",
     ],
     'L': [
-        "#   ",
         "#   ",
         "#   ",
         "#   ",
@@ -111,7 +99,6 @@ FONT = {
         "# # #",
         "#   #",
         "#   #",
-        "#   #",
     ],
     'N': [
         "#  #",
@@ -119,11 +106,9 @@ FONT = {
         "# ##",
         "#  #",
         "#  #",
-        "#  #",
     ],
     'O': [
         " ## ",
-        "#  #",
         "#  #",
         "#  #",
         "#  #",
@@ -135,11 +120,9 @@ FONT = {
         "### ",
         "#   ",
         "#   ",
-        "#   ",
     ],
     'Q': [
         " ## ",
-        "#  #",
         "#  #",
         "# ##",
         " ## ",
@@ -151,19 +134,16 @@ FONT = {
         "### ",
         "# # ",
         "#  #",
-        "#  #",
     ],
     'S': [
         " ###",
         "#   ",
         " ## ",
         "   #",
-        "   #",
         "### ",
     ],
     'T': [
         "#####",
-        "  #  ",
         "  #  ",
         "  #  ",
         "  #  ",
@@ -174,11 +154,9 @@ FONT = {
         "#  #",
         "#  #",
         "#  #",
-        "#  #",
         " ## ",
     ],
     'V': [
-        "#   #",
         "#   #",
         "#   #",
         " # # ",
@@ -187,7 +165,6 @@ FONT = {
     ],
     'W': [
         "#   #",
-        "#   #",
         "# # #",
         "# # #",
         "## ##",
@@ -195,10 +172,9 @@ FONT = {
     ],
     'X': [
         "#  #",
-        "#  #",
         " ## ",
         " ## ",
-        "#  #",
+        " ## ",
         "#  #",
     ],
     'Y': [
@@ -207,11 +183,9 @@ FONT = {
         "  #  ",
         "  #  ",
         "  #  ",
-        "  #  ",
     ],
     'Z': [
         "####",
-        "   #",
         "  # ",
         " #  ",
         "#   ",
@@ -221,7 +195,6 @@ FONT = {
         " ## ",
         "#  #",
         "# ##",
-        "## #",
         "#  #",
         " ## ",
     ],
@@ -230,13 +203,11 @@ FONT = {
         "## ",
         " # ",
         " # ",
-        " # ",
         "###",
     ],
     '2': [
         " ## ",
         "#  #",
-        "  # ",
         " #  ",
         "#   ",
         "####",
@@ -246,7 +217,6 @@ FONT = {
         "   #",
         " ## ",
         "   #",
-        "   #",
         "### ",
     ],
     '4': [
@@ -255,13 +225,11 @@ FONT = {
         "####",
         "   #",
         "   #",
-        "   #",
     ],
     '5': [
         "####",
         "#   ",
         "### ",
-        "   #",
         "   #",
         "### ",
     ],
@@ -269,7 +237,6 @@ FONT = {
         " ## ",
         "#   ",
         "### ",
-        "#  #",
         "#  #",
         " ## ",
     ],
@@ -279,13 +246,11 @@ FONT = {
         "  # ",
         " #  ",
         " #  ",
-        " #  ",
     ],
     '8': [
         " ## ",
         "#  #",
         " ## ",
-        "#  #",
         "#  #",
         " ## ",
     ],
@@ -294,11 +259,9 @@ FONT = {
         "#  #",
         " ###",
         "   #",
-        "   #",
         " ## ",
     ],
     ' ': [
-        "  ",
         "  ",
         "  ",
         "  ",
@@ -309,12 +272,10 @@ FONT = {
         "#",
         "#",
         "#",
-        "#",
         " ",
         "#",
     ],
     '.': [
-        " ",
         " ",
         " ",
         " ",
@@ -327,10 +288,8 @@ FONT = {
         "####",
         "    ",
         "    ",
-        "    ",
     ],
     '_': [
-        "    ",
         "    ",
         "    ",
         "    ",
@@ -341,14 +300,12 @@ FONT = {
         " ",
         "#",
         " ",
-        " ",
         "#",
         " ",
     ],
     ';': [
         " ",
         "#",
-        " ",
         " ",
         "#",
         "#",
@@ -358,12 +315,10 @@ FONT = {
         "# ",
         "# ",
         "# ",
-        "# ",
         " #",
     ],
     ')': [
         "# ",
-        " #",
         " #",
         " #",
         " #",
@@ -375,7 +330,6 @@ FONT = {
         "#  ",
         " # ",
         "  #",
-        "   ",
     ],
     '>': [
         "#  ",
@@ -383,12 +337,10 @@ FONT = {
         "  #",
         " # ",
         "#  ",
-        "   ",
     ],
     '/': [
         "   #",
         "  # ",
-        " #  ",
         " #  ",
         "#   ",
         "#   ",
@@ -397,7 +349,6 @@ FONT = {
         " ## ",
         "#  #",
         "  # ",
-        " #  ",
         "    ",
         " #  ",
     ],
@@ -407,14 +358,12 @@ FONT = {
         "###",
         " # ",
         "# #",
-        "   ",
     ],
     '+': [
         "   ",
         " # ",
         "###",
         " # ",
-        "   ",
         "   ",
     ],
     '=': [
@@ -423,18 +372,15 @@ FONT = {
         "    ",
         "####",
         "    ",
-        "    ",
     ],
     '☺': [
         " #### ",
-        "#    #",
         "# ## #",
         "#    #",
         "# ## #",
         " #### ",
     ],
     '♥': [
-        "      ",
         " ## ##",
         "######",
         " #### ",
@@ -445,16 +391,16 @@ FONT = {
 
 
 def text_to_grid(text: str) -> List[List[bool]]:
-    """Convert text to a 6-row pixel grid."""
+    """Convert text to a 5-row pixel grid."""
     text = text.upper()
-    grid = [[] for _ in range(6)]
+    grid = [[] for _ in range(5)]
 
     for i, char in enumerate(text):
         if char not in FONT:
             char = ' '
 
         char_pattern = FONT[char]
-        for row in range(6):
+        for row in range(5):
             for pixel in char_pattern[row]:
                 grid[row].append(pixel == '#')
             if i < len(text) - 1:
@@ -482,9 +428,10 @@ def grid_to_dates(grid: List[List[bool]], start_date: datetime, offset_weeks: in
     dates = []
 
     for col in range(len(grid[0])):
-        for row in range(6):
+        for row in range(5):
             if grid[row][col]:
-                date = start_date + timedelta(weeks=col + offset_weeks, days=row)
+                # +1 to start on Tuesday (skip Monday), so Sunday and Monday are empty
+                date = start_date + timedelta(weeks=col + offset_weeks, days=row + 1)
                 if date <= datetime.now():
                     dates.append(date)
 
@@ -494,9 +441,9 @@ def grid_to_dates(grid: List[List[bool]], start_date: datetime, offset_weeks: in
 def preview_grid(grid: List[List[bool]]) -> str:
     """Generate ASCII preview of the grid."""
     result = []
-    days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+    days = ['Tue', 'Wed', 'Thu', 'Fri', 'Sat']
 
-    for row in range(6):
+    for row in range(5):
         line = f"{days[row]} "
         for col in range(len(grid[0])):
             line += '#' if grid[row][col] else '.'
@@ -559,7 +506,7 @@ def main():
 
     print(f"\n=== Git Graph Painter ===")
     print(f"Text: {args.text.upper()}")
-    print(f"Grid size: {len(grid[0])} weeks x 6 days")
+    print(f"Grid size: {len(grid[0])} weeks x 5 days")
     print(f"\nPreview:")
     print(preview_grid(grid))
 
